@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 Advanced Scientific Calculator
 
 <div align="center">
@@ -421,4 +422,3 @@ SOFTWARE.
 Made with ❤️ using C# and .NET WinForms
 
 </div>
-
