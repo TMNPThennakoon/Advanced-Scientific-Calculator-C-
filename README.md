@@ -104,9 +104,6 @@ Quick and accurate temperature conversions:
 ![temperature-converter](https://github.com/user-attachments/assets/389ccf94-0ff0-4039-9158-2339e2c6e916)
 *Quick temperature conversions between Celsius and Fahrenheit*
 
-
-> **Note**: Screenshots should be added to the `screenshots/` directory. Replace the placeholder paths above with your actual screenshot files.
-
 ---
 
 ## 🛠️ Technology Stack
