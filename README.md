@@ -94,20 +94,17 @@ Quick and accurate temperature conversions:
 ## 📸 Screenshots
 
 ### Main Calculator Interface with Scientific Functions
-![Main Calculator](screenshots/main-calculator.png)
+![main-calculator](https://github.com/user-attachments/assets/580bb56c-3953-4a02-87f2-1eacbb48b0fa)
 *The main calculator interface featuring both standard and scientific functions*
 
 ### Unit Converter
-![Unit Converter](screenshots/unit-converter.png)
+![unit-converter](https://github.com/user-attachments/assets/6895b8dd-5a46-4210-977c-fb19e3d04fa5)
 *Convert between different length and distance units with ease*
 
 ### Temperature Converter
-![Temperature Converter](screenshots/temperature-converter.png)
+![temperature-converter](https://github.com/user-attachments/assets/389ccf94-0ff0-4039-9158-2339e2c6e916)
 *Quick temperature conversions between Celsius and Fahrenheit*
 
-### Splash Screen
-![Splash Screen](screenshots/splash-screen.png)
-*Professional splash screen displayed on application startup*
 
 > **Note**: Screenshots should be added to the `screenshots/` directory. Replace the placeholder paths above with your actual screenshot files.
 
