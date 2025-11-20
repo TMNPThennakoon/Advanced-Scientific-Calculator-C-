@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+![WhatsApp Image 2025-11-20 at 11 53 49 PM](https://github.com/user-attachments/assets/45a63d82-739d-4cd2-9ac3-7ff779ab1197)<<<<<<< HEAD
 # 🧮 Advanced Scientific Calculator
 
 <div align="center">
@@ -93,13 +93,9 @@ Quick and accurate temperature conversions:
 
 ## 📸 Screenshots
 
-### Main Calculator Interface
+### Main Calculator Interface with Scientific Functions
 ![Main Calculator](screenshots/main-calculator.png)
 *The main calculator interface featuring both standard and scientific functions*
-
-### Scientific Functions
-![Scientific Calculator](screenshots/scientific-calculator.png)
-*Advanced scientific operations including trigonometry, logarithms, and exponentials*
 
 ### Unit Converter
 ![Unit Converter](screenshots/unit-converter.png)
