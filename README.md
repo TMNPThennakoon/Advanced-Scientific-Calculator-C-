@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-11-20 at 11 53 49 PM](https://github.com/user-attachments/assets/45a63d82-739d-4cd2-9ac3-7ff779ab1197)<<<<<<< HEAD
 # 🧮 Advanced Scientific Calculator
 
 <div align="center">
